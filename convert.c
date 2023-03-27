@@ -25,5 +25,3 @@ char *convert(unsigned long int num, int base, int lowercase)
 
 	return (ptr);
 }
-Footer
-© 2023 GitHub, Inc.
